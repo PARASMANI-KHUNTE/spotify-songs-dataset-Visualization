@@ -34,11 +34,11 @@ Navigate to the project directory:
 bash
 Copy code
 cd spotify-songs-dataset-Visualization
-Place your .csv file containing music data into the project directory. By default, the script looks for music_data.csv.
+Place your .csv file containing music data into the project directory. By default, the script looks for spotify_songs_dataset.csv.
 Run the script:
 bash
 Copy code
-python visualize_music_data.py
+python visualize_spotify_songs_dataset.py
 Visualizations
 The script generates the following plots:
 
@@ -59,8 +59,8 @@ graphql
 Copy code
 music-data-visualization/
 │
-├── music_data.csv             # Sample CSV file (you need to add this)
-├── visualize_music_data.py    # Python script for data visualization
+├── spotify_songs_dataset.csv             # Sample CSV file (you need to add this)
+├── visualize_spotify_songs_dataset.py    # Python script for data visualization
 ├── README.md                  # Project documentation
 └── images/                    # Directory for visualization screenshots
 License
