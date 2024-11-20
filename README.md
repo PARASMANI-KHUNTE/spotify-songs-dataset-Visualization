@@ -29,11 +29,11 @@ Usage
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/PARASMANI-KHUNTE/spotify-songs-dataset-Visualization-.git
+git clone https://github.com/PARASMANI-KHUNTE/spotify-songs-dataset-Visualization.git
 Navigate to the project directory:
 bash
 Copy code
-cd spotify-songs-dataset-Visualization-
+cd spotify-songs-dataset-Visualization
 Place your .csv file containing music data into the project directory. By default, the script looks for music_data.csv.
 Run the script:
 bash
